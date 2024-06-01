@@ -16,10 +16,12 @@
 *[DoH3]: DNS over HTTP/3
 *[DoT]: DNS over TLS
 *[E2EE]: End-to-End Encryption/Encrypted
+*[ECH]: Encrypted Client Hello
 *[ECS]: EDNS Client Subnet
 *[EEA]: European Economic Area
 *[entropy]: A measurement of how unpredictable something is
 *[EOL]: End-of-Life
+*[ESNI]: Encrypted Server Name Identification
 *[Exif]: Exchangeable image file format
 *[FCM]: Firebase Cloud Messaging
 *[FDE]: Full Disk Encryption
@@ -90,6 +92,7 @@
 *[TOTP]: Time-based One-Time Password
 *[TPM]: Trusted Platform Module
 *[U2F]: Universal 2nd Factor
+*[uBO]: uBlock Origin
 *[UEFI]: Unified Extensible Firmware Interface
 *[UDP]: User Datagram Protocol
 *[VPN]: Virtual Private Network
